@@ -1,0 +1,55 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython (if used)
+.ipynb_checkpoints/
+
+# Windows Python launcher history
+.python_history
+
+# macOS folder attributes
+.AppleDouble
+.LSOverride
+
+# Pip environment metadata
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test/report outputs
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+nosetests.xml
+test-results/
+
+# VS Code notebook settings (optional)
+*.ipynb-meta
+
+# OpenCV files (if recording)
+*.avi
+*.mp4
